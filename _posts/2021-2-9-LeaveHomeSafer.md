@@ -28,15 +28,15 @@ title: 安心出行LeaveHomeSafe
 
 #### 1. 㩒app icon開app。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appViews.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_views.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 2. 去到home screen㩒"Enter"開始扮嘢。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appHome.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_home.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 3. 想扮得似啲可以開埋camera。放心，我哋真係唔會出賣你資料。你可以check我哋[source code](https://github.com/bartertone/leavehomesafer)。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appAllow.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_allow.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 4. 對住個QR code扮scan。記住，臨時演員都係演員嚟。OK就㩒"Scan the QR Code"制去下一頁啦。
 
@@ -44,30 +44,30 @@ title: 安心出行LeaveHomeSafe
 
 #### 5. 㩒"Loation Name"可以update吓佢。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appEnter.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_enter.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 6. 打你需要嘅location name入去。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appInput.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_input.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 7. Show你個電話俾check你嘅人睇。如果佢check得你好認真，你就扮有電話入走人啦！
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appUpdate.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_update.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 8. 如果想update吓個time display，㩒一㩒個“current time”就可以update去「現在時間」。所以基本上keep住呢個時screen，不斷update個location name同time就可以縱橫全港。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appTime.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_time.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 9. 想返home screen可以㩒黃色"Leave"制走人。Back to home screen!
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appOrigin.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_origin.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 #### 10. Bottom bar有3個制：
 * Home 會帶你去我哋團隊homepage
 * Inbox 會帶你去我哋個blog
 * Settings 會帶你去user guide(即係呢個page)。
 
-<img src="{{ site.baseurl }}/images/LeaveHomeSafer/appBar.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
+<img src="{{ site.baseurl }}/images/LeaveHomeSafer/app_bar.png" alt="康復香港 時代抗疫" style="width: 60%;"/>
 
 如果你想支持我哋，可以donate去我哋嘅Ethereum Wallet。Thank you so much!
 <img src="{{ site.baseurl }}/images/LeaveHomeSafer/ethqrcode.png" alt="Thank you so much" style="width: 50%;"/>
